@@ -1,7 +1,7 @@
 
 # Medical Word Embedding and Search Engine
 
-## Overview
+## Brief
 This project focused on building a machine learning-based search engine for the medical domain using word embeddings. The system used **Word2Vec** and **FastText** models to generate vector representations of medical terms and enables efficient search functionality based on those embeddings. The solution is deployed and scaled on **Azure**.
 
 ## Tech Stack
@@ -27,6 +27,11 @@ The dataset used is the **Dimensions COVID-19 Publications and Clinical Trials D
 4. **UI Deployment**:
    - Developed an interactive user interface with **Streamlit**.
    - Deployed the application to **Azure App Services**.
+
+
+## Screenshots
+  ![Streamlit App Screenshot](Medical-Search-Engine/Ipython%20Notebook/Images/Screenshot%201.png)
+
 
 ## Running the Project
 
