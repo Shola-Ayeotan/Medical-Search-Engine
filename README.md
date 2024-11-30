@@ -36,7 +36,7 @@ The dataset used is the **Dimensions COVID-19 Publications and Clinical Trials D
 ## Running the Project
 
 ### Prerequisites
-- Python 3.x
+- Python 3.11
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
