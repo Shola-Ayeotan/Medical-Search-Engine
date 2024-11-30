@@ -30,7 +30,7 @@ The dataset used is the **Dimensions COVID-19 Publications and Clinical Trials D
 
 
 ## Screenshots
-  ![Streamlit App Screenshot](Medical-Search-Engine/Ipython%20Notebook/Images/Screenshot%201.png)
+  ![Streamlit App Screenshot](/Notebooks/Images/Screenshot_01.png)
 
 
 ## Running the Project
